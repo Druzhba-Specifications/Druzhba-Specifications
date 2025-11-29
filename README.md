@@ -1,5 +1,10 @@
-## Hi there 👋
+## ITS DRUZHBA!
+Druzhba is a game company owned by some questionable people...
 
+**But other than that, we are pretty random!** <br>
+we make ***games***! <br>
+we make **random** ***projects***!
+## **WE ARE RANDOM**
 <!--
 **Druzhba-Specifications/Druzhba-Specifications** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
